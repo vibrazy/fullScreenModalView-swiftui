@@ -1,2 +1,3 @@
-# fullScreenModalView-swiftui
-Present SwiftUI content full screen
+# FullScreenModal
+
+A description of this package.
